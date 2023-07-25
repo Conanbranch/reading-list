@@ -8,3 +8,5 @@ A repo devoted to publicly available resources on machine learning that acts as 
 [Taori, R., Hashimoto, T.B. (2022). Data Feedback Loops: Model-driven Amplification of Dataset Biases. *arXiv e-prints*](https://arxiv.org/pdf/2209.03942.pdf)
 
 [Henderson, P., Li, X., Jurafsky, D., Hashimoto, T., Lemley. P.A., Liang, P. Whose Opinions Do Language Models Reflect? (2022).  *arXiv e-prints*](https://arxiv.org/pdf/2303.17548.pdf)
+
+[Liang,  P., Morency L.P. ICML Tutorial: Multimodal Machine Learning: Principles, Challenges, and Open Questions (2023).](https://icml.cc/virtual/2023/tutorial/21551)[Add. Materials](https://cmu-multicomp-lab.github.io/mmml-tutorial/icml2023/)
