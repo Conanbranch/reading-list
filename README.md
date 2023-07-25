@@ -9,4 +9,4 @@ A repo devoted to publicly available resources on machine learning that acts as 
 
 [Henderson, P., Li, X., Jurafsky, D., Hashimoto, T., Lemley. P.A., Liang, P. Whose Opinions Do Language Models Reflect? (2022).  *arXiv e-prints*](https://arxiv.org/pdf/2303.17548.pdf)
 
-[Liang,  P., Morency L.P. ICML Tutorial: Multimodal Machine Learning: Principles, Challenges, and Open Questions (2023).](https://icml.cc/virtual/2023/tutorial/21551) [(Slides, Materials, Etc.)](https://cmu-multicomp-lab.github.io/mmml-tutorial/icml2023/)
+[Liang,  P., Morency L.P. (2023). *ICML Tutorial: Multimodal Machine Learning: Principles, Challenges, and Open Questions*](https://icml.cc/virtual/2023/tutorial/21551) [(Slides, Materials, Etc.)](https://cmu-multicomp-lab.github.io/mmml-tutorial/icml2023/)
