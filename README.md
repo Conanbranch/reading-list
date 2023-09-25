@@ -20,6 +20,6 @@ A repo devoted to publicly available resources on machine learning that acts as 
 
 # Postings
 
-[Sampath, S. (2023). *The Animated Transformer*](https://prvnsmpth.github.io/animated-transformer/)https://prvnsmpth.github.io/animated-transformer/)
+[Sampath, S. (2023). *The Animated Transformer*](https://prvnsmpth.github.io/animated-transformer/)
 
 
