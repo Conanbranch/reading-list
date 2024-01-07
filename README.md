@@ -28,7 +28,7 @@ A repo devoted to publicly available resources on machine learning that acts as 
 
 [Regulatable ML: Towards Bridging the Gaps between Machine Learning Research and Regulations](https://neurips.cc/virtual/2023/workshop/66512)
 
-[Socially Responsible Language Modelling Research (SoLaR)]((https://neurips.cc/virtual/2023/workshop/66526)
+[Socially Responsible Language Modelling Research (SoLaR)](https://neurips.cc/virtual/2023/workshop/66526)
 
 # Postings
 
