@@ -18,12 +18,20 @@ A repo devoted to publicly available resources on machine learning that acts as 
 
 [Liang,  P., Morency L.P. (2023). *ICML Tutorial: Multimodal Machine Learning: Principles, Challenges, and Open Questions*](https://icml.cc/virtual/2023/tutorial/21551) [(Slides, Materials, Etc.)](https://cmu-multicomp-lab.github.io/mmml-tutorial/icml2023/)
 
+[Ng, A., Fulford, I., (2023).*NuerIPS Tutorial: Application Development using Large Language Models* ](https://neurips.cc/virtual/2023/tutorial/73948)
+
+[Ma, J., Et al. (2023).*NuerIPS Tutorial: Data-Centric AI for reliable and responsible AI: From Theory to Practice*](https://neurips.cc/virtual/2023/tutorial/73948)
+
 # Workshops
 
-[](https://neurips.cc/virtual/2023/workshop/66512)
+[NeurIPS 2023 Workshop: XAI in Action: Past, Present, and Future Applications](https://neurips.cc/virtual/2023/workshop/66529)
+
+[Regulatable ML: Towards Bridging the Gaps between Machine Learning Research and Regulations](https://neurips.cc/virtual/2023/workshop/66512)
+
+[Socially Responsible Language Modelling Research (SoLaR)]((https://neurips.cc/virtual/2023/workshop/66526)
 
 # Postings
 
-[Sampath, S. (2023). *The Animated Transformer*](https://prvnsmpth.github.io/animated-transformer/)
+[Sampath, S. (2023). *The AnimatedTransformer*](https://prvnsmpth.github.io/animated-transformer/)
 
 
