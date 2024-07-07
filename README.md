@@ -15,7 +15,7 @@ A repo devoted to publicly available resources on machine learning that acts as 
 
 [Nie, Y., Kong, Y., Dong, X., Mulvey, J.M., Poor, H.V., Wen, Q., Zohren, S. A Survey of Large Language Models for Financial Applications: Progress, Prospects and Challenges (2024). *arXiv e-prints*](https://arxiv.org/pdf/2406.11903)
 
-[Schulhoff, S., Ilie, M., Balepur, N., Kahadze, K., Liu, A., Si, C., ... & Resnik, P. The Prompt Report: A Systematic Survey of Prompting Techniques(2024). *arXiv e-prints*](https://arxiv.org/pdf/2406.11903)
+[Schulhoff, S., Ilie, M., Balepur, N., Kahadze, K., Liu, A., Si, C., ... & Resnik, P. The Prompt Report: A Systematic Survey of Prompting Techniques(2024). *arXiv e-prints*](https://arxiv.org/pdf/2406.06608)
 
 
 # Tutorials
