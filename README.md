@@ -13,6 +13,8 @@ A repo devoted to publicly available resources on machine learning that acts as 
 
 [Bender, E. M., Gebru, T., McMillan-Major, A., & Shmitchell, S. On the Dangers of Stochastic Parrots: Can Language Models Be Too Big? (2021). ACM Facct](https://dl.acm.org/doi/pdf/10.1145/3442188.3445922)
 
+[Nie, Y., Kong, Y., Dong, X., Mulvey, J.M., Poor, H.V., Wen, Q., Zohren, S. A Survey of Large Language Models for Financial Applications: Progress, Prospects and Challenges (202224). *arXiv e-prints*](https://dl.acm.org/doi/pdf/10.1145/3442188.3445922)
+
 
 # Tutorials
 
