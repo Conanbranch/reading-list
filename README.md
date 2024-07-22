@@ -17,7 +17,7 @@ A repo devoted to publicly available resources on machine learning that acts as 
 
 [Schulhoff, S., Ilie, M., Balepur, N., Kahadze, K., Liu, A., Si, C., ... & Resnik, P. The Prompt Report: A Systematic Survey of Prompting Techniques(2024). *arXiv e-prints*](https://arxiv.org/pdf/2406.06608)
 
-[Miao, X., Oliaro, G., Zhihao, Z., Xinhao, C., Hongyi. J., Tianqi, C., Zhihao, J. Towards Efficient Generative Large Language Model Serving: A Survey from Algorithms to Systems(2023). *arXiv e-prints*](https://arxiv.org/pdf/2406.06608](https://arxiv.org/pdf/2312.15234)
+[Miao, X., Oliaro, G., Zhihao, Z., Xinhao, C., Hongyi. J., Tianqi, C., Zhihao, J. Towards Efficient Generative Large Language Model Serving: A Survey from Algorithms to Systems(2023). *arXiv e-prints*](https://arxiv.org/pdf/2312.15234)
 
 # Tutorials
 
